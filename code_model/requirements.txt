@@ -1,5 +1,0 @@
-librosa==0.7.0
-numpy==1.19.0
-numba=0.48.0
-torch==1.10.2
-mir_eval.separation==0.6
